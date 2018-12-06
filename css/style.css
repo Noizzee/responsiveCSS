@@ -1,0 +1,42 @@
+body {
+  background-color: 659B79;
+}
+
+#customNav {
+  background-color: #286A41;
+}
+
+.h1 {
+  color: white !important;
+  font-family: 'Parisienne', cursive;
+  font-weight: bold;
+  font-size: 30px;
+  letter-spacing: 4px;
+}
+
+.text-info {
+  color: white !important;
+  font-weight: bold;
+  font-family: 'Ubuntu', sans-serif;
+  letter-spacing: 2px;
+}
+
+.mainContent {
+  margin-top: 80px;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.box1 {
+  border: 1px solid red;
+}
+
+.box2 {
+  border: 1px solid red;
+}
+
+img {
+  width: 600px;
+  height: 400px;
+}
